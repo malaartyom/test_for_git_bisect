@@ -3,7 +3,7 @@ for i in range(5):
     print(a[i])
 a.reverse()
 prinT()
-for i in range(5):
+for i in range(7):
     print(a[i])
 print()
 for i in range(5):
