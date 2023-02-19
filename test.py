@@ -1,8 +1,8 @@
 a = [1, 2, 3, 4, 5]
-for i in range(6):
+for i in range(5):
     print(a[i])
 a.reverse()
-print()
+prinT()
 for i in range(5):
     print(a[i])
 print()
